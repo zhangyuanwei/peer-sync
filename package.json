@@ -1,0 +1,23 @@
+{
+    "name": "peer-sync",
+    "version": "1.0.0",
+    "description": "Sync files between peer",
+    "main": "index.js",
+    "bin": {
+        "push-peer": "index.js",
+        "pull-peer": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhangyuanwei/peer-sync.git"
+    },
+    "author": "ZhangYuanwei (zhangyuanwei1988@gmail.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zhangyuanwei/peer-sync/issues"
+    },
+    "homepage": "https://github.com/zhangyuanwei/peer-sync#readme"
+}
